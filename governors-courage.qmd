@@ -39,8 +39,6 @@ The researcher asks: What is the average causal effect of winning an election --
 
 Note that we use the same data, and the same fitted model, to help both people.
 
-The Wisdom and Justice sections below are filled in with our answers, so you begin today with correct answers to everything that has gone before. Today's work is the Courage section.
-
 The setup chunk of this document carries forward the work from Wisdom: the close-election tibble `x` is already built, so today starts at the modeling.
 
 ## Courage
